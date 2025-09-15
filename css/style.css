@@ -21,3 +21,29 @@
   margin: 20px auto;
   max-width: 800px;
 }
+
+
+
+
+#ResumeS .header-box {
+  background-color: #C7E1FF;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+
+#ResumeS .header-box h1 {
+  font-family: "Oldenburg", serif;
+  font-size: 40px;
+  color: #541de0;
+  margin: 0 0 12px 0;
+}
+
+
+#ResumeS .header-box h2 {
+  font-family: "Oldenburg", serif;
+  font-size: 20px;
+  color: #C12A7B;
+  margin: 6px 0;
+}
